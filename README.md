@@ -29,7 +29,7 @@ Sou um estudante de **Engenharia de Computação** com 23 anos, atualmente cursa
 
 ## 📫 Como me Encontrar
 
-- [LinkedIn]((https://www.linkedin.com/in/nikolas-lopes-aa764b210/)
+- [LinkedIn](https://www.linkedin.com/in/nikolas-lopes-aa764b210/)
 - [Email](Nikolaslopes2000@outlook.com)  
 
 ## 📊 Estatísticas do GitHub
