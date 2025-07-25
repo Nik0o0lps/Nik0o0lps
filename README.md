@@ -1,13 +1,13 @@
 # Olá! 👋 Eu sou Nikolas Lopes
 
-Sou um estudante de **Engenharia de Computação** com 23 anos, atualmente cursando o sétimo semestre na **UFSC**. Apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo, estou sempre buscando me aprofundar em novas áreas e colaborar em projetos interessantes.
+Sou um estudante de **Engenharia de Computação** com 23 anos, atualmente cursando o nono semestre na **UFSC**. Apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo, estou sempre buscando me aprofundar em novas áreas e colaborar em projetos interessantes.
 
 ## 🚀 Sobre Mim
 
 - 🎓 **Educação**: Engenharia de Computação na UFSC (Previsão de formatura: 2025/2)
 - 💻 **Interesses**: Desenvolvimento de Software, Inteligência Artificial, Sistemas Embarcados, Segurança da Informação, entre outros.
 - 🌊 **Hobbies**: Surf e academia, mantendo um equilíbrio entre a mente e o corpo.
-- 🔍 **Buscando**: Oportunidades de estágio e colaboração em projetos open-source que me desafiem e me ajudem a crescer profissionalmente.
+- 🔍 **Buscando**:Colaboração em projetos que me desafiem e me ajudem a crescer profissionalmente.
   
 ## 🛠️ Habilidades Técnicas
 
@@ -19,7 +19,7 @@ Sou um estudante de **Engenharia de Computação** com 23 anos, atualmente cursa
 
 ## 🌱 Atualmente Estou Aprendendo
 
-- Desenvolvimento de aplicativos móveis com Flutter.
+- Desenvolvimento Web ultilizando o FastAPI
 - Arquiteturas de software e design patterns.
 - Machine Learning e Inteligência Artificial aplicados a problemas do mundo real.
 
