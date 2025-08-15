@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Nikolas Lopes
 
-Sou um estudante de **Engenharia de Computação** com 23 anos, atualmente cursando o nono semestre na **UFSC**. Apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo, estou sempre buscando me aprofundar em novas áreas e colaborar em projetos interessantes.
+Sou um estudante de **Engenharia de Computação** com 24 anos, atualmente cursando o último semestre na **UFSC**. Apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo, estou sempre buscando me aprofundar em novas áreas e colaborar em projetos interessantes.
 
 ## 🚀 Sobre Mim
 
@@ -23,9 +23,6 @@ Sou um estudante de **Engenharia de Computação** com 23 anos, atualmente cursa
 - Arquiteturas de software e design patterns.
 - Machine Learning e Inteligência Artificial aplicados a problemas do mundo real.
 
-## 💼 Experiência de Trabalho
-
-- Em busca de oportunidades de estágio em desenvolvimento de software. Tenho interesse especial em empresas inovadoras que valorizam o aprendizado contínuo e o crescimento de seus colaboradores.
 
 ## 📫 Como me Encontrar
 
