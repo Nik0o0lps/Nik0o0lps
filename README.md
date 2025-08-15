@@ -38,7 +38,7 @@ Sou um estudante de **Engenharia de Computação** com 23 anos, atualmente cursa
 
 ## 🌟 Projetos Destacados
 
-- [Mastermind Game](https://github.com/Nik0o0lps/MasterMind) - Jogo de lógica desenvolvido com Qt Creator.
+- [FastAPI](https://github.com/Nik0o0lps/Fast_Zero) - Desenvolvimento de Uma aplicação web ulitlizando Python e FastAPI 
 
 ## 📚 Contribuições e Atividades Recentes
 
