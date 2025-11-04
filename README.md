@@ -40,19 +40,6 @@ Git/GitHub • Docker • Linux • Metodologias Ágeis (Scrum)
 
 ---
 
-## Projetos em Destaque  
-
-- **Computador de Bordo Inteligente para Drone**  
-  Projeto de TCC que utiliza IA para identificação de objetos em tempo real.  
-
-- **PyAnalyticas**  
-  Ferramenta de análise e visualização de dados em Python, com foco em desempenho e usabilidade.  
-
-- **[FastAPI](https://github.com/Nik0o0lps/Fast_Zero)**  
-  Desenvolvimento de uma aplicação web com Python e IA integrada via FastAPI.  
-
----
-
 ## Atualmente Estou Aprendendo  
 
 - Modelos de Deep Learning (CNNs, LSTMs, Transformers)  
