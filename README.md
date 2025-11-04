@@ -1,39 +1,37 @@
 # Olá! Eu sou o Nikolas Lopes  
 
-Sou estudante de **Engenharia de Computação** e apaixonado por **Inteligência Artificial**.  
-Gosto de explorar como modelos de aprendizado de máquina e redes neurais podem resolver problemas do mundo real — desde **análise de dados** até **visão computacional** e **automação inteligente**.  
+Sou estudante de **Engenharia de Computação** e desenvolvedor com foco em **Inteligência Artificial** aplicada a **chatbots, modelos de linguagem e sistemas inteligentes**.  
+Atualmente, estou aprofundando meus estudos em **Machine Learning**, **Processamento de Linguagem Natural (NLP)** e **engenharia de aplicações baseadas em IA**.  
 
-Atualmente, meu foco está em **desenvolver soluções práticas com IA**, integrando **modelos inteligentes** a **aplicações web** e **sistemas embarcados**.  
+Busco unir **técnicas modernas de IA** com **boas práticas de desenvolvimento** para criar soluções reais — desde **assistentes virtuais inteligentes** até **sistemas de recomendação e automação**.
 
 ---
 
 ## Sobre Mim  
 
 - **Educação:** Engenharia de Computação - UFSC (Previsão de formatura: 2025/2)  
-- **Foco atual:** Inteligência Artificial, Machine Learning, Deep Learning e Visão Computacional  
-- **Interesses:** IA aplicada, MLOps, sistemas inteligentes embarcados e automação com aprendizado de máquina  
-- **Equilíbrio:** Surf e academia para manter o corpo ativo e a mente criativa  
-- **Buscando:** Projetos e colaborações na área de IA que unam pesquisa, engenharia e inovação  
+- **Foco atual:** Chatbots, Modelos de Linguagem (LLMs), NLP, Machine Learning e Deep Learning  
+- **Interesses:** Desenvolvimento de aplicações inteligentes, IA generativa, engenharia de prompts e integração de modelos em back-ends modernos  
+- **Objetivo:** Trabalhar em projetos que explorem o potencial da IA para melhorar a interação entre humanos e tecnologia  
 
 ---
 
 ## Habilidades Técnicas  
 
 **Linguagens:**  
-Python • C++ • C • JavaScript  
+Python • JavaScript • C++  
 
-**Machine Learning / Deep Learning:**  
-TensorFlow • PyTorch • Scikit-learn  
-Redes Neurais • CNNs • Transfer Learning • Regressão • Classificação  
+**Inteligência Artificial:**  
+Transformers • LangChain • OpenAI API • Hugging Face • Scikit-learn • TensorFlow • PyTorch  
 
-**Dados e Visualização:**  
-Pandas • NumPy • Matplotlib • Seaborn  
+**NLP / Chatbots:**  
+Embeddings • Vetorização semântica • Recuperação de contexto (RAG) • Fine-tuning de modelos • Integração com APIs de LLMs  
 
-**Desenvolvimento Web (IA Integrada):**  
-FastAPI • Flask • HTML • CSS • React  
+**Desenvolvimento Web (Back-end IA):**  
+FastAPI • Flask • Node.js  
 
 **Banco de Dados:**  
-SQLite • MongoDB • PostgreSQL  
+MongoDB • PostgreSQL • SQLite • FAISS (busca vetorial)  
 
 **Outros:**  
 Git/GitHub • Docker • Linux • Metodologias Ágeis (Scrum)  
@@ -42,10 +40,10 @@ Git/GitHub • Docker • Linux • Metodologias Ágeis (Scrum)
 
 ## Atualmente Estou Aprendendo  
 
-- Modelos de Deep Learning (CNNs, LSTMs, Transformers)  
-- Engenharia e Deploy de IA — integração de modelos com APIs e aplicações web  
-- Busca vetorial e embeddings aplicados a chatbots e sistemas de recomendação  
-- Automação inteligente e IA em sistemas embarcados (ESP32/STM32)  
+- Integração de **LLMs** em aplicações práticas (via OpenAI API e LangChain)  
+- Arquiteturas de chatbots escaláveis e baseados em **memória vetorial**  
+- **MLOps** e engenharia de dados aplicada a projetos de IA  
+- Técnicas de otimização e fine-tuning de modelos para tarefas específicas  
 
 ---
 
@@ -56,5 +54,3 @@ Git/GitHub • Docker • Linux • Metodologias Ágeis (Scrum)
 
 ---
 
-Sou movido pela curiosidade e pelo desafio de transformar **dados e algoritmos em inteligência aplicada**.  
-Se você também está construindo algo com IA, entre em contato.  
