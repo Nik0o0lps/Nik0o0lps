@@ -3,7 +3,7 @@
 Sou estudante de **Engenharia de Computação** e desenvolvedor com foco em **Inteligência Artificial** aplicada a **chatbots, modelos de linguagem e sistemas inteligentes**.  
 Atualmente, estou aprofundando meus estudos em **Machine Learning**, **Processamento de Linguagem Natural (NLP)** e **engenharia de aplicações baseadas em IA**.  
 
-Busco unir **técnicas modernas de IA** com **boas práticas de desenvolvimento** para criar soluções reais — desde **assistentes virtuais inteligentes** até **sistemas de recomendação e automação**.
+Busco unir **técnicas modernas de IA** com **boas práticas de desenvolvimento** para criar soluções reais  desde **assistentes virtuais inteligentes** até **sistemas de recomendação e automação**.
 
 ---
 
