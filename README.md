@@ -1,6 +1,6 @@
 # Olá! Eu sou o Nikolas Lopes  
 
-Sou estudante de **Engenharia de Computação** e desenvolvedor com foco em **Inteligência Artificial** aplicada a **chatbots, modelos de linguagem e sistemas inteligentes**.  
+Formado em **Engenharia de Computação** e desenvolvedor com foco em **Inteligência Artificial** aplicada a **chatbots, modelos de linguagem e sistemas inteligentes**.  
 Atualmente, estou aprofundando meus estudos em **Machine Learning**, **Processamento de Linguagem Natural (NLP)** e **engenharia de aplicações baseadas em IA**.  
 
 Busco unir **técnicas modernas de IA** com **boas práticas de desenvolvimento** para criar soluções reais  desde **assistentes virtuais inteligentes** até **sistemas de recomendação e automação**.
@@ -9,7 +9,7 @@ Busco unir **técnicas modernas de IA** com **boas práticas de desenvolvimento*
 
 ## Sobre Mim  
 
-- **Educação:** Engenharia de Computação - UFSC (Previsão de formatura: 2025/2)  
+- **Educação:** Engenharia de Computação - UFSC 
 - **Foco atual:** Chatbots, Modelos de Linguagem (LLMs), NLP, Machine Learning e Deep Learning  
 - **Interesses:** Desenvolvimento de aplicações inteligentes, IA generativa, engenharia de prompts e integração de modelos em back-ends modernos  
 - **Objetivo:** Trabalhar em projetos que explorem o potencial da IA para melhorar a interação entre humanos e tecnologia  
